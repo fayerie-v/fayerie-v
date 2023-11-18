@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Vi and I want to major in Computer Science!
 
 <!--
 **fayerie-v/fayerie-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
