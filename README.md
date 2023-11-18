@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Vi and I want to major in Computer Science!
+### Hi there 👋 My name is Vi!
+- I am currently studying at UBC
 
 <!--
 **fayerie-v/fayerie-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
