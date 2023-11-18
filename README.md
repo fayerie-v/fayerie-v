@@ -1,5 +1,6 @@
 ### Hi there 👋 My name is Vi!
 - I am currently studying at UBC
+- hehe
 
 <!--
 **fayerie-v/fayerie-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
